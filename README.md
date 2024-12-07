@@ -8,6 +8,7 @@ This project extracts data from bill images using OCR and machine learning techn
 
 ## Directory Structure
 
+```plaintext
 VISION-OCR-EXTRACTOR/
 ├── data/                   # Data directory
 │   ├── raw/                # Raw input images

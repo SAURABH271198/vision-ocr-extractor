@@ -2,13 +2,13 @@ tesseract
 boto3
 google-cloud-vision
 azure-ai-formrecognizer
-# spacy
+spacy
 transformers
 scikit-learn
-# tensorflow
-# torch
-# sqlalchemy
-# pymongo
+tensorflow
+torch
+sqlalchemy
+pymongo
 fastapi
 uvicorn
 pytest

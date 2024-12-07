@@ -1,0 +1,14 @@
+tesseract
+boto3
+google-cloud-vision
+azure-ai-formrecognizer
+# spacy
+transformers
+scikit-learn
+# tensorflow
+# torch
+# sqlalchemy
+# pymongo
+fastapi
+uvicorn
+pytest

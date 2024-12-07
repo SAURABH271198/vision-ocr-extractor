@@ -42,3 +42,6 @@ VISION-OCR-EXTRACTOR/
 ├── README.md               # Project documentation
 ├── .gitignore              # Git ignore file
 
+
+## Swagger
+[swagger UI] (http://127.0.0.1:8000/docs)
